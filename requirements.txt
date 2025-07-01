@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+langchain_core
+langchain_huggingface
+langchain_neo4j
+langchain_community
+
+dotenv
+
+streamlit
+matplotlib
